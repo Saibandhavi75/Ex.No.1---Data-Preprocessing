@@ -23,7 +23,8 @@ For achieving better results from the applied model in Machine Learning projects
 Another aspect is that the data set should be formatted in such a way that more than one Machine Learning and Deep Learning algorithm are executed in one data set, and best out of them is chosen.
 
 
-##ALGORITHM:
+### ALGORITHM:
+
 Importing the libraries
 
 Importing the dataset
@@ -36,7 +37,7 @@ Normalizing the data
 
 Splitting the data into test and train
 
-##PROGRAM:
+### PROGRAM:
 ```
 Developed by: Aruru Sai bandhavi.
 Register No: 212221240006.
@@ -68,11 +69,11 @@ print(df1)
 ```
 
 
-##OUTPUT:
+### OUTPUT:
 ![output](https://github.com/Saibandhavi75/Ex.No.1---Data-Preprocessing/blob/main/11.png?raw=true)
 ![output](https://github.com/Saibandhavi75/Ex.No.1---Data-Preprocessing/blob/main/12.png?raw=true)
 ![output](https://github.com/Saibandhavi75/Ex.No.1---Data-Preprocessing/blob/main/13.png?raw=true)
 ![output](https://github.com/Saibandhavi75/Ex.No.1---Data-Preprocessing/blob/main/14.png?raw=true)
 
-##RESULT
+### RESULT
 Thus the above program for standardizing the given data was implemented successfully.
